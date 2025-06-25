@@ -1,8 +1,6 @@
 # Multiclass Classification of Bat Species
 
 Classification of bat species using logistic regression and neural networks on acoustic signal data.
-
-## Highlights
 - Used PCA for dimensionality reduction
 - Compared multinomial logistic regression vs. neural network
 - Achieved 94.6% test accuracy with tuned neural net using 5-fold CV
