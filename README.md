@@ -7,7 +7,7 @@ Classification of bat species using logistic regression and neural networks on a
 - Compared multinomial logistic regression vs. neural network
 - Achieved 94.6% test accuracy with tuned neural net using 5-fold CV
 
-## Tools & Libraries
+## Tools & Techniques
 - R, `nnet`, `Rtsne`, `Keras3`, PCA, etc.
 
 ## Structure
