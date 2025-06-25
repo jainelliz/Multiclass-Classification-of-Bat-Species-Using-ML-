@@ -8,7 +8,7 @@ Classification of bat species using logistic regression and neural networks on a
 - Achieved 94.6% test accuracy with tuned neural net using 5-fold CV
 
 ## Tools & Libraries
-- R, `nnet`, `caret`, PCA, Keras
+- R, `nnet`, `caret`, PCA, Keras, etc.
 
 ## Structure
 - `bat_species_classifier.qmd` – Analysis and model code
